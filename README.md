@@ -1,3 +1,3 @@
 HTML, CSS, and Javascript for Web Developers
 Module 2 Code assignment
-link: https://fatmakr-06.github.io/Assignmentmodule3/
+link: https://fatmakr-06.github.io/assignmentmodule3/
